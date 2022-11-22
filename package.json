@@ -1,0 +1,20 @@
+{
+  "name": "dnevnik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pg": "^8.8.0",
+    "puppeteer": "^19.2.2",
+    "puppeteer-core": "^19.2.2",
+    "telegraf": "^4.10.0",
+    "telegram-keyboard": "^2.3.2"
+  }
+}
